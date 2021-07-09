@@ -1,7 +1,7 @@
 ### Buscar, Remplazar Texto
 
-Acción      | Teclas
-------------|-------
+Acción      | Comando 
+------------|--------
 Buscar a | /a
 Remplazar a por b | :s/a/b
 Remplazar a por b en una línea | :s/a/b/g
